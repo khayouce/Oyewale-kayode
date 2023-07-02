@@ -1,3 +1,4 @@
+![logo](https://github.com/khayouce/Oyewale-kayode/blob/main/LARA.png)
 <h1 align="center">Hi 👋, I'm Oyewale Kayode</h1>
 <h3 align="center">A passionate WebApp developer from Nigeria</h3>
 
